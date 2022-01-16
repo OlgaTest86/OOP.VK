@@ -4,4 +4,5 @@ public class Geo {
     private String type;
     private String coordinates;
 
+    //getters+setters
 }

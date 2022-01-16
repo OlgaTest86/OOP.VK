@@ -5,4 +5,6 @@ public class PostSours {
     private String platform;
     private String data;
     private String url;
+
+    //getters+setters
 }

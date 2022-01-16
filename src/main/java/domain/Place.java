@@ -14,4 +14,6 @@ public class Place {
     private int city;
     private String address;
 
+    //getters+setters
+
 }

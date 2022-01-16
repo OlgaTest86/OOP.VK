@@ -6,4 +6,6 @@ public class CentralPart {
     private String titleOfThePost;
     private String bookmarkBottom;
     private String linkFullPost;
+
+    //getters+setters
 }

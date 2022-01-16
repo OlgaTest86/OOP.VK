@@ -5,4 +5,6 @@ public class LowerPart {
     private int commentCounter;
     private long shareCounter;
     private long viewCounter;
+
+    //getters+setters
 }

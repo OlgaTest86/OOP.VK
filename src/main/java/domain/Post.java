@@ -6,6 +6,14 @@ public class Post {
     private int fromId;
     private int createdBy;
     private int date;
+    private CommentsInfo commentsInfo;
+    private Copyright copyright;
+    private LikesInfo likesInfo;
+    private ReportsInfo reportsInfo;
+    private ViewsInfo viewsInfo;
+    private PostSours postSours;
+    private Geo geo;
+    private Donut donut;
     private String text;
     private int replyOwnerId;
     private int replyPostId;
@@ -19,6 +27,7 @@ public class Post {
     private boolean markedAsAds;
     private boolean isFavorite;
     private int postponedId;
+
 
     //getters+setters
 }
